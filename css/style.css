@@ -871,6 +871,7 @@ h3 {
   width: 100%;
   top: 0;
   z-index: 99;
+  line-height: 10px;
 }
 
 @media (max-width: 767px) {
@@ -969,7 +970,7 @@ h3 {
   text-transform: capitalize;
   font-weight: 600;
   display: inline-block;
-  padding: 40px 0;
+  padding: 25px 0;
   font-family: "Muli", sans-serif;
   position: relative;
 }
